@@ -1,14 +1,15 @@
-# Getting Started #with Java
+# Getting Started with Java
 
 Install any IDEA for java. Ex: IntelliJ, BlueJ
 
 ## Git clone
 
-Clone this repository using the link provided in the download button
+Clone this repository using the link 
+### `https://github.com/Manoj-Athi/Search-Genes.git`
 
 ## Getting started
 
-Run the test method in gene.java file.
+Run the testgene() method in gene class in the gene.java file.
 
 ## Implementation of searching of genes in DNA
 
